@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Hiba Shaikh 👋
 
-<!--
-**hiba410/hiba410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate AI student with hands-on experience in Java and Python. I love leveraging technology to solve real-world problems.
 
-Here are some ideas to get you started:
+## Skills
+- Programming Languages: Python, Java
+- Tools: Jupyter Notebook, PyCharm, Visual Studio Code
+- Technologies: Machine Learning, Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/hiba-shaikh-b8a640304/)
+- [Email](mailto:hibashaikh410@gmail.com)
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?hiba410=hiba410&show_icons=true&theme=radical)
