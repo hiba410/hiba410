@@ -22,12 +22,7 @@
 
 ### 📝 Most Used Languages
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hiba410&theme=radical&layout=compact&langs_count=6&hide=html,css,javascript&exclude_repo=DSA_hiba,Machine-Learning-)
-
-🔹 **Primary Language:** Python, Java  
-🔹 **Other Skills:** SQL, Power BI 
-🔹 **Currently Learning:** Python
----
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hiba410&theme=radical)
 
 ### 🎉 Fun Fact:
 I love exploring new tech and solving challenging problems!
