@@ -6,6 +6,7 @@
 ### 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiba-shaikh-b8a640304/)
 [![Gmail](https://img.shields.io/badge/Gmail-1DA1F2?style=flat&logo=twitter&logoColor=white)](hibashaikh410@gmail.com)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:hibashaikh2005@outlook.com)
 ---
 
 ### 🛠️ Technologies & Tools:
